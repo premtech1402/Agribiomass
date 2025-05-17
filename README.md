@@ -84,6 +84,7 @@ This dataset enables the training of a machine learning model to:
 ## 📁 Project Structure
 
 agribiomass_project/
+|
 ├── agribiomass.csv                  # Dataset with crop, waste, and biomass info
 ├── model_training.py               # Python script to train and save the model
 ├── predict_biomass.py              # Contains prediction logic with encoders
