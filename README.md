@@ -38,10 +38,53 @@ This tool is built using **Python**, **Scikit-learn**, and **Gradio** for an int
 
 ---
 
+## 📂 Dataset Description
+
+The dataset used in this project — **`agribiomass.csv`** — contains information on various types of agricultural waste and their corresponding biomass yields. It was compiled to support the prediction and classification of biomass potential based on waste attributes.
+
+### 📄 Columns in the Dataset:
+
+| Column Name              | Description                                                                 |
+|--------------------------|-----------------------------------------------------------------------------|
+| `Crop Type`              | The name of the crop that generated the waste (e.g., Wheat, Rice, Maize).   |
+| `Waste Type`             | The specific type of agricultural waste (e.g., Straw, Husk, Stalks).        |
+| `Waste Amount (kg)`      | Quantity of waste generated in kilograms.                                   |
+| `Biomass Yield (kg)`     | Actual amount of usable biomass obtained from the given waste.              |
+| `Processing Method`      | The recommended method for processing the given crop-waste combination.     |
+| `Resulting Product`      | The end product obtained after processing the waste (e.g., Briquettes, Compost). |
+
+---
+
+### 🧪 Sample Data (Example Rows):
+
+| Crop Type | Waste Type | Waste Amount (kg) | Biomass Yield (kg) | Processing Method | Resulting Product     |
+|-----------|------------|-------------------|---------------------|-------------------|------------------------|
+| Rice      | Husk       | 50                | 40.5                | Briquetting       | Biomass Briquettes     |
+| Wheat     | Straw      | 60                | 45.2                | Composting        | Organic Compost        |
+| Sugarcane | Bagasse    | 100               | 88.0                | Pelletization     | Biomass Pellets        |
+
+---
+
+### ⚙️ Preprocessing Applied to Dataset
+
+- **Label Encoding**: `Crop Type` and `Waste Type` are encoded to numerical values using `LabelEncoder` for model training.
+- **Feature Selection**:
+  - **Inputs**: Crop Type (encoded), Waste Type (encoded), Waste Amount (kg)
+  - **Target**: Biomass Yield (kg)
+
+---
+
+### 🔍 Purpose of Dataset
+
+This dataset enables the training of a machine learning model to:
+- Predict how much biomass can be generated from specific crop waste.
+- Recommend the most suitable processing technique and end product for practical use in rural/agro-industrial settings.
+
+
 ## 📁 Project Structure
 
 agribiomass_project/
-│
+|
 ├── agribiomass.csv                  # Dataset with crop, waste, and biomass info
 ├── model_training.py               # Python script to train and save the model
 ├── predict_biomass.py              # Contains prediction logic with encoders
@@ -54,27 +97,6 @@ agribiomass_project/
 └── README.md                       # Project documentation
 
 ---
-
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-
-git clone https://github.com/yourusername/agribiomass-predictor.git
-cd agribiomass-predictor
-
-### 2. Install Dependencies
-
-pip install -r requirements.txt
-
-If you don't have a requirements.txt, install manually:
-
-pip install pandas scikit-learn joblib matplotlib gradio
-
-### 3. Run the Application
-
-python interface.py
-
-A browser window will launch with the input form.
 
 ---
 
