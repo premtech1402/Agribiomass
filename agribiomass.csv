@@ -1,0 +1,201 @@
+Crop Type,Waste Type,Waste Amount (kg),Biomass Yield (kg),Processing Method,Resulting Product
+Sugarcane,Bagasse,634,218.0,Combustion,Heat Energy
+Sugarcane,Bagasse,827,211.5,Combustion,Heat Energy
+Soybean,Pod Shells,652,226.4,Composting,Organic Fertilizer
+Sugarcane,Bagasse,370,105.6,Combustion,Heat Energy
+Soybean,Pod Shells,746,252.2,Composting,Organic Fertilizer
+Wheat,Straw,360,98.4,Pyrolysis,Biochar
+Maize,Cob,809,274.4,Fermentation,Bioethanol
+Soybean,Pod Shells,753,189.8,Composting,Organic Fertilizer
+Sugarcane,Bagasse,61,16.1,Combustion,Heat Energy
+Maize,Cob,933,265.6,Fermentation,Bioethanol
+Rice,Husk,589,193.4,Gasification,Syngas
+Wheat,Straw,178,57.4,Pyrolysis,Biochar
+Sugarcane,Bagasse,97,30.3,Combustion,Heat Energy
+Barley,Hull,320,89.5,Pelletizing,Pellets
+Wheat,Straw,206,60.5,Pyrolysis,Biochar
+Sugarcane,Bagasse,446,132.6,Combustion,Heat Energy
+Wheat,Straw,110,35.1,Pyrolysis,Biochar
+Wheat,Straw,640,218.5,Pyrolysis,Biochar
+Corn,Stover,261,71.5,Anaerobic Digestion,Biogas
+Wheat,Straw,777,220.0,Pyrolysis,Biochar
+Rice,Husk,719,218.5,Gasification,Syngas
+Rice,Husk,392,106.4,Gasification,Syngas
+Cotton,Stalk,570,194.0,Briquetting,Solid Fuel
+Barley,Hull,873,293.0,Pelletizing,Pellets
+Corn,Stover,188,65.7,Anaerobic Digestion,Biogas
+Sugarcane,Bagasse,686,220.8,Combustion,Heat Energy
+Rice,Husk,909,250.5,Gasification,Syngas
+Wheat,Straw,299,97.0,Pyrolysis,Biochar
+Rice,Husk,360,96.7,Gasification,Syngas
+Wheat,Straw,308,83.2,Pyrolysis,Biochar
+Sugarcane,Bagasse,257,73.1,Combustion,Heat Energy
+Soybean,Pod Shells,355,113.7,Composting,Organic Fertilizer
+Soybean,Pod Shells,73,24.9,Composting,Organic Fertilizer
+Corn,Stover,520,153.4,Anaerobic Digestion,Biogas
+Cotton,Stalk,722,190.5,Briquetting,Solid Fuel
+Corn,Stover,62,17.0,Anaerobic Digestion,Biogas
+Barley,Hull,469,131.0,Pelletizing,Pellets
+Sugarcane,Bagasse,984,275.8,Combustion,Heat Energy
+Barley,Hull,222,69.5,Pelletizing,Pellets
+Cotton,Stalk,188,55.7,Briquetting,Solid Fuel
+Wheat,Straw,393,114.4,Pyrolysis,Biochar
+Corn,Stover,881,230.3,Anaerobic Digestion,Biogas
+Wheat,Straw,991,329.6,Pyrolysis,Biochar
+Maize,Cob,562,142.6,Fermentation,Bioethanol
+Corn,Stover,455,129.4,Anaerobic Digestion,Biogas
+Maize,Cob,963,316.1,Fermentation,Bioethanol
+Rice,Husk,197,51.5,Gasification,Syngas
+Soybean,Pod Shells,140,36.7,Composting,Organic Fertilizer
+Wheat,Straw,54,13.8,Pyrolysis,Biochar
+Soybean,Pod Shells,501,132.6,Composting,Organic Fertilizer
+Barley,Hull,313,101.8,Pelletizing,Pellets
+Cotton,Stalk,583,198.5,Briquetting,Solid Fuel
+Cotton,Stalk,918,319.7,Briquetting,Solid Fuel
+Rice,Husk,829,243.7,Gasification,Syngas
+Maize,Cob,260,66.7,Fermentation,Bioethanol
+Maize,Cob,708,218.7,Fermentation,Bioethanol
+Rice,Husk,468,151.1,Gasification,Syngas
+Sugarcane,Bagasse,267,90.7,Combustion,Heat Energy
+Barley,Hull,323,91.8,Pelletizing,Pellets
+Wheat,Straw,254,70.2,Pyrolysis,Biochar
+Rice,Husk,174,56.3,Gasification,Syngas
+Wheat,Straw,901,305.3,Pyrolysis,Biochar
+Sugarcane,Bagasse,132,33.2,Combustion,Heat Energy
+Maize,Cob,421,126.4,Fermentation,Bioethanol
+Sugarcane,Bagasse,311,88.5,Combustion,Heat Energy
+Cotton,Stalk,722,236.8,Briquetting,Solid Fuel
+Soybean,Pod Shells,205,71.3,Composting,Organic Fertilizer
+Cotton,Stalk,136,37.8,Briquetting,Solid Fuel
+Barley,Hull,748,218.6,Pelletizing,Pellets
+Cotton,Stalk,395,135.8,Briquetting,Solid Fuel
+Rice,Husk,575,157.9,Gasification,Syngas
+Cotton,Stalk,744,191.8,Briquetting,Solid Fuel
+Barley,Hull,967,251.7,Pelletizing,Pellets
+Wheat,Straw,736,229.7,Pyrolysis,Biochar
+Sugarcane,Bagasse,731,194.7,Combustion,Heat Energy
+Maize,Cob,582,158.8,Fermentation,Bioethanol
+Wheat,Straw,283,91.5,Pyrolysis,Biochar
+Cotton,Stalk,249,68.5,Briquetting,Solid Fuel
+Corn,Stover,564,167.2,Anaerobic Digestion,Biogas
+Maize,Cob,639,166.4,Fermentation,Bioethanol
+Sugarcane,Bagasse,186,55.3,Combustion,Heat Energy
+Sugarcane,Bagasse,842,291.9,Combustion,Heat Energy
+Soybean,Pod Shells,928,272.9,Composting,Organic Fertilizer
+Rice,Husk,126,39.7,Gasification,Syngas
+Corn,Stover,905,227.9,Anaerobic Digestion,Biogas
+Rice,Husk,662,202.0,Gasification,Syngas
+Wheat,Straw,671,170.7,Pyrolysis,Biochar
+Rice,Husk,100,34.0,Gasification,Syngas
+Rice,Husk,262,84.5,Gasification,Syngas
+Wheat,Straw,462,137.2,Pyrolysis,Biochar
+Barley,Hull,337,92.8,Pelletizing,Pellets
+Wheat,Straw,395,122.4,Pyrolysis,Biochar
+Barley,Hull,836,263.6,Pelletizing,Pellets
+Cotton,Stalk,227,69.7,Briquetting,Solid Fuel
+Corn,Stover,186,49.8,Anaerobic Digestion,Biogas
+Corn,Stover,789,262.3,Anaerobic Digestion,Biogas
+Corn,Stover,391,100.2,Anaerobic Digestion,Biogas
+Sugarcane,Bagasse,537,182.6,Combustion,Heat Energy
+Wheat,Straw,912,262.7,Pyrolysis,Biochar
+Sugarcane,Bagasse,518,162.1,Combustion,Heat Energy
+Maize,Cob,576,192.2,Fermentation,Bioethanol
+Barley,Hull,342,109.7,Pelletizing,Pellets
+Sugarcane,Bagasse,165,48.8,Combustion,Heat Energy
+Cotton,Stalk,856,251.6,Briquetting,Solid Fuel
+Wheat,Straw,180,46.2,Pyrolysis,Biochar
+Maize,Cob,380,118.6,Fermentation,Bioethanol
+Cotton,Stalk,212,73.3,Briquetting,Solid Fuel
+Soybean,Pod Shells,954,275.0,Composting,Organic Fertilizer
+Rice,Husk,277,73.4,Gasification,Syngas
+Maize,Cob,762,258.0,Fermentation,Bioethanol
+Corn,Stover,954,265.0,Anaerobic Digestion,Biogas
+Corn,Stover,532,140.9,Anaerobic Digestion,Biogas
+Rice,Husk,905,242.0,Gasification,Syngas
+Corn,Stover,176,46.1,Anaerobic Digestion,Biogas
+Rice,Husk,754,262.4,Gasification,Syngas
+Sugarcane,Bagasse,443,142.6,Combustion,Heat Energy
+Sugarcane,Bagasse,406,104.9,Combustion,Heat Energy
+Maize,Cob,782,245.5,Fermentation,Bioethanol
+Barley,Hull,964,269.1,Pelletizing,Pellets
+Maize,Cob,481,162.3,Fermentation,Bioethanol
+Rice,Husk,523,173.5,Gasification,Syngas
+Barley,Hull,484,130.0,Pelletizing,Pellets
+Barley,Hull,970,311.7,Pelletizing,Pellets
+Wheat,Straw,63,19.2,Pyrolysis,Biochar
+Cotton,Stalk,667,226.7,Briquetting,Solid Fuel
+Sugarcane,Bagasse,726,217.0,Combustion,Heat Energy
+Wheat,Straw,587,204.2,Pyrolysis,Biochar
+Soybean,Pod Shells,648,190.4,Composting,Organic Fertilizer
+Wheat,Straw,967,274.1,Pyrolysis,Biochar
+Rice,Husk,249,76.9,Gasification,Syngas
+Wheat,Straw,396,116.6,Pyrolysis,Biochar
+Wheat,Straw,935,251.4,Pyrolysis,Biochar
+Barley,Hull,204,71.1,Pelletizing,Pellets
+Rice,Husk,542,184.0,Gasification,Syngas
+Rice,Husk,211,72.3,Gasification,Syngas
+Cotton,Stalk,69,23.7,Briquetting,Solid Fuel
+Corn,Stover,83,27.9,Anaerobic Digestion,Biogas
+Barley,Hull,183,57.7,Pelletizing,Pellets
+Soybean,Pod Shells,783,207.1,Composting,Organic Fertilizer
+Maize,Cob,753,244.2,Fermentation,Bioethanol
+Sugarcane,Bagasse,412,105.0,Combustion,Heat Energy
+Maize,Cob,850,228.1,Fermentation,Bioethanol
+Rice,Husk,715,228.4,Gasification,Syngas
+Soybean,Pod Shells,585,194.4,Composting,Organic Fertilizer
+Corn,Stover,920,293.5,Anaerobic Digestion,Biogas
+Corn,Stover,946,296.7,Anaerobic Digestion,Biogas
+Barley,Hull,729,236.7,Pelletizing,Pellets
+Maize,Cob,644,189.2,Fermentation,Bioethanol
+Rice,Husk,482,125.3,Gasification,Syngas
+Sugarcane,Bagasse,282,81.9,Combustion,Heat Energy
+Barley,Hull,803,247.7,Pelletizing,Pellets
+Barley,Hull,145,40.9,Pelletizing,Pellets
+Sugarcane,Bagasse,968,337.5,Combustion,Heat Energy
+Maize,Cob,225,68.2,Fermentation,Bioethanol
+Soybean,Pod Shells,612,161.6,Composting,Organic Fertilizer
+Sugarcane,Bagasse,310,104.4,Combustion,Heat Energy
+Cotton,Stalk,861,219.3,Briquetting,Solid Fuel
+Rice,Husk,573,182.7,Gasification,Syngas
+Corn,Stover,928,305.2,Anaerobic Digestion,Biogas
+Barley,Hull,480,125.2,Pelletizing,Pellets
+Maize,Cob,767,197.7,Fermentation,Bioethanol
+Corn,Stover,226,62.6,Anaerobic Digestion,Biogas
+Barley,Hull,878,266.8,Pelletizing,Pellets
+Corn,Stover,408,117.6,Anaerobic Digestion,Biogas
+Maize,Cob,366,121.2,Fermentation,Bioethanol
+Cotton,Stalk,795,269.8,Briquetting,Solid Fuel
+Maize,Cob,312,81.4,Fermentation,Bioethanol
+Rice,Husk,836,231.1,Gasification,Syngas
+Rice,Husk,996,318.4,Gasification,Syngas
+Corn,Stover,404,116.4,Anaerobic Digestion,Biogas
+Wheat,Straw,172,51.8,Pyrolysis,Biochar
+Sugarcane,Bagasse,252,69.8,Combustion,Heat Energy
+Rice,Husk,844,261.8,Gasification,Syngas
+Maize,Cob,325,111.0,Fermentation,Bioethanol
+Sugarcane,Bagasse,452,120.2,Combustion,Heat Energy
+Maize,Cob,956,250.7,Fermentation,Bioethanol
+Sugarcane,Bagasse,415,107.5,Combustion,Heat Energy
+Rice,Husk,186,49.7,Gasification,Syngas
+Corn,Stover,419,109.7,Anaerobic Digestion,Biogas
+Cotton,Stalk,75,20.0,Briquetting,Solid Fuel
+Soybean,Pod Shells,892,242.0,Composting,Organic Fertilizer
+Wheat,Straw,69,18.2,Pyrolysis,Biochar
+Soybean,Pod Shells,797,268.3,Composting,Organic Fertilizer
+Wheat,Straw,717,236.4,Pyrolysis,Biochar
+Rice,Husk,398,129.8,Gasification,Syngas
+Wheat,Straw,853,255.4,Pyrolysis,Biochar
+Rice,Husk,144,45.9,Gasification,Syngas
+Cotton,Stalk,158,53.2,Briquetting,Solid Fuel
+Wheat,Straw,585,157.3,Pyrolysis,Biochar
+Maize,Cob,505,156.8,Fermentation,Bioethanol
+Maize,Cob,448,134.7,Fermentation,Bioethanol
+Soybean,Pod Shells,691,219.6,Composting,Organic Fertilizer
+Sugarcane,Bagasse,422,142.7,Combustion,Heat Energy
+Rice,Husk,711,186.3,Gasification,Syngas
+Sugarcane,Bagasse,494,156.9,Combustion,Heat Energy
+Sugarcane,Bagasse,397,126.4,Combustion,Heat Energy
+Barley,Hull,800,276.6,Pelletizing,Pellets
+Barley,Hull,83,22.9,Pelletizing,Pellets
+Sugarcane,Bagasse,961,285.1,Combustion,Heat Energy
+Maize,Cob,827,232.7,Fermentation,Bioethanol
